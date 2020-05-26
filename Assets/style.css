@@ -1,0 +1,14 @@
+body {
+  background-color: lavender;
+}
+
+.jumbotron {
+  margin-left: 60px;
+  margin-right: 60px;
+  color: purple;
+}
+p {
+  margin-left: 150px;
+  font-style: italic;
+  font-size: 25px;
+}
